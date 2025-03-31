@@ -26,7 +26,7 @@ With EMS, users can contribute towards a **sustainable and energy-efficient futu
 1. **Clone the Repository**  
    ```sh
    git clone https://github.com/rachitshah-1/CyberSec-IA.git
-   cd ems-project
+   cd CyberSec-IA/IA2_Part2
    ```
 2. **Run the Application**  
    - If using a web version: Open `index.html` in your browser  
