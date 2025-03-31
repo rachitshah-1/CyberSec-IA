@@ -43,10 +43,7 @@ With EMS, users can contribute towards a **sustainable and energy-efficient futu
 
 ---
 
-## 📢 Where to Get Help  
-🔹 **GitHub Issues** – Report bugs or request features: [Issue Tracker](https://github.com/rachitshah-1/CyberSec-IA/IA2_Part2/issues)  
-🔹 **Documentation** – Check our [Wiki](https://github.com/rachitshah-1/CyberSec-IA/IA2_Part2/wiki)  
-🔹 **Community Discussions** – Join the conversation on [Discussions](https://github.com/rachitshah-1/CyberSec-IA/IA2_Part2/discussions)  
+## 📢 Where to Get Help   
 🔹 **Email Support** – Contact us at `rachitporwal554@gmail.com`  
 
 ---
